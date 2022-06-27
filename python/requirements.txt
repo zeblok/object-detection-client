@@ -1,0 +1,4 @@
+ovmsclient
+opencv-python
+flask
+multiprocess

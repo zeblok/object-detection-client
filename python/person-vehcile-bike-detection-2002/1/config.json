@@ -1,0 +1,9 @@
+{
+    "model_config_list": [{
+        "config": {
+            "name": "person-vehicle-bike-detection-2002",
+            "base_path": "/models/person-vehicle-bike-detection-2002",
+            "layout": "NHWC:NCHW"
+        }
+    }]
+}
